@@ -6,8 +6,8 @@ Neste repositório irei postar os códigos-fonte de meus estudos e projetos para
 - Seção 2: Conceitos de programação (Não estará no documento);
 - Seção 3: Introdução a linguagem Java (Não estará no documento);
 - Seção 4: Estrutura sequencial (Postado dia 11/11/2023);
-- Seção 5: Estrutura condicional (Em produção);
-- Seção 6: Estruturas repetitivas;
+- Seção 5: Estrutura condicional (Postado dia 16/11/2023 (US date 11/16/2023));
+- Seção 6: Estruturas repetitivas (Em produção);
 - Seção 7: Outros tópicos básicos sobre Java;
 - Seção 8: Introdução a P.O.O. (Programação Orientada a Objetos);
 - Seção 9: Construtores / This / Sobrecarga & Encapsulamento;
