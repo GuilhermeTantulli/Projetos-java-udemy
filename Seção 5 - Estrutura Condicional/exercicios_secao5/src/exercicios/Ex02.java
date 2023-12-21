@@ -2,6 +2,11 @@ package exercicios;
 
 import java.util.Scanner;
 
+/**
+ * @author Guilherme Tantulli
+ * @version 1.1
+ */
+
 public class Ex02 {
 
 	/*

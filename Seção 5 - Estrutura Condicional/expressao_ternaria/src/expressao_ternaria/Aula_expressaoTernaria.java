@@ -2,7 +2,7 @@ package expressao_ternaria;
 
 /**
  * @author Guilherme Tantulli
- * @version 1.0
+ * @version 1.1
  */
 
 public class Aula_expressaoTernaria {
