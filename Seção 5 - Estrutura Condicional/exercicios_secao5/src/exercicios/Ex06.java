@@ -3,6 +3,11 @@ package exercicios;
 import java.util.Locale;
 import java.util.Scanner;
 
+/**
+ * @author Guilherme Tantulli
+ * @version 1.0
+ */
+
 public class Ex06 {
 	/*
 	 * Você deve fazer um programa que leia um valor qualquer e apresente uma mensagem dizendo em qual dos

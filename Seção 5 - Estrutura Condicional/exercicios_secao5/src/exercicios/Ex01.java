@@ -2,6 +2,11 @@ package exercicios;
 
 import java.util.Scanner;
 
+/**
+ * @author Guilherme Tantulli
+ * @version 1.0
+ */
+
 public class Ex01 {
 	/*
 	 * Fazer um programa para ler um número inteiro, e depois dizer se este número é negativo ou não

@@ -3,6 +3,11 @@ package exercicios;
 import java.util.Locale;
 import java.util.Scanner;
 
+/**
+ * @author Guilherme Tantulli
+ * @version 1.0
+ */
+
 public class Ex05 {
 	/*
 	 * Com base na tabela abaixo, escreva um programa que leia o código de um item e a quantidade deste item. A

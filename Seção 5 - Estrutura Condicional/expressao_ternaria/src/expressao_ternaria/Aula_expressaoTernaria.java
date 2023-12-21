@@ -1,5 +1,10 @@
 package expressao_ternaria;
 
+/**
+ * @author Guilherme Tantulli
+ * @version 1.0
+ */
+
 public class Aula_expressaoTernaria {
 
 	/*

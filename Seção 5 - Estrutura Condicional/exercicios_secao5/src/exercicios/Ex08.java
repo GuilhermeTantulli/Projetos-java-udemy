@@ -3,6 +3,11 @@ package exercicios;
 import java.util.Locale;
 import java.util.Scanner;
 
+/**
+ * @author Guilherme Tantulli
+ * @version 1.0
+ */
+
 public class Ex08 {
 	/*
 	 * Em um país imaginário denominado Lisarb, todos os habitantes ficam felizes em pagar seus impostos, pois sabem

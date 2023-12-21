@@ -2,6 +2,11 @@ package exercicios;
 
 import java.util.Scanner;
 
+/**
+ * @author Guilherme Tantulli
+ * @version 1.0
+ */
+
 public class Ex04 {
 	/*
 	 * Leia a hora inicial e a hora final de um jogo. A seguir calcule a duração do jogo, sabendo que o mesmo pode

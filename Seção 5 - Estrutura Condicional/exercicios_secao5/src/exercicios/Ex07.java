@@ -3,6 +3,11 @@ package exercicios;
 import java.util.Locale;
 import java.util.Scanner;
 
+/**
+ * @author Guilherme Tantulli
+ * @version 1.0
+ */
+
 public class Ex07 {
 	/*
 	 * Leia 2 valores com uma casa decimal (x e y), que devem representar as coordenadas
